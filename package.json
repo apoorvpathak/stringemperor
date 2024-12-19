@@ -1,16 +1,23 @@
 {
   "name": "stringemperor",
-  "version": "1.0.0",
-  "description": "string utility package to play around with strings",
+  "version": "1.0.1",
+  "description": "String utility package to play around with strings.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apoorvpathak/stringemperor.git"
+  },
   "keywords": [
     "npm",
     "string",
     "utilities",
-    "string",
     "string utilities",
     "stringemperor"
   ],
-  "author": "apoorv pathak",
-  "license": "ISC"
+  "author": "Apoorv Pathak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apoorvpathak/stringemperor/issues"
+  },
+  "homepage": "https://github.com/apoorvpathak/stringemperor#readme"
 }
