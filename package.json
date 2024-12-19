@@ -1,0 +1,16 @@
+{
+  "name": "stringemperor",
+  "version": "1.0.0",
+  "description": "string utility package to play around with strings",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "string",
+    "utilities",
+    "string",
+    "string utilities",
+    "stringemperor"
+  ],
+  "author": "apoorv pathak",
+  "license": "ISC"
+}
